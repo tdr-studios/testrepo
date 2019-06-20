@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat May 25 16:44:48 CEST 2019
+https\://repo.maven.apache.org/maven2/.lastUpdated=1558795488204
+@default-test-https\://rawgit.com/DSeeLP/repo/repository/.lastUpdated=1555676187050
+https\://rawgit.com/DSeeLP/repo/repository/.error=Could not transfer artifact radiopower.api\:error\:pom\:unknown from/to test (https\://rawgit.com/DSeeLP/repo/repository)\: Access denied to\: https\://rawgit.com/DSeeLP/repo/repository/radiopower/api/error/unknown/error-unknown.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.error=
